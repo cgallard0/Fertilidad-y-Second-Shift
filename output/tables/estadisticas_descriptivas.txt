@@ -1,0 +1,90 @@
+Entrevistas (encuesta retrospectiva): 1220
+
+Mujeres entrevistadas: 616
+
+Madres: 497
+
+Hijos de las mujeres de la muestra: 1188
+
+Máximo de hijos por mujer: 13
+
+Promedio de hijos por mujer, por cohorte:
+cohorte
+1    2.08
+2    2.00
+3    1.70
+
+Edad promedio a la primera maternidad, por cohorte:
+cohorte
+1    26.51
+2    27.55
+3    26.75
+
+Parejas declaradas por las mujeres: 700
+
+Parejas en las que la mujer trabaja (submuestra principal): 504
+
+Proporción de informalidad por nivel socioeconómico (parejas con mujer ocupada):
+status
+1    1.000
+2    0.562
+3    0.398
+4    0.141
+5    0.084
+
+Historia de vida por nivel socioeconómico (% dentro de cada nivel; 1 = SPF, 2 = Repartnered, 3 = MPF):
+life_story      1      2      3
+status                         
+1           30.77  15.38  53.85
+2           37.50  12.50  50.00
+3           44.07  23.73  32.20
+4           62.82  20.09  17.09
+5           65.42  28.04   6.54
+
+División de tareas por nivel socioeconómico (cantidad de parejas; 1 = Sola, 2 = Juntos, 3 = Ayuda externa):
+hh_work     1      2     3
+status                    
+1         1.0   12.0   NaN
+2         3.0   29.0   NaN
+3        15.0   96.0   7.0
+4        23.0  171.0  40.0
+5        10.0   58.0  39.0
+
+Parejas con tendencia ascendente (pre vs. post primer hijo): 59
+
+Parejas con tendencia descendente (pre vs. post primer hijo): 31
+
+Matriz de transición (cantidad de parejas):
+post_mode      Sola  Juntos  Ayuda Externa
+pre_mode                                  
+Sola             25      11              5
+Juntos            1     218             11
+Ayuda Externa     1       8             37
+
+Matriz de transición (proporciones por fila):
+post_mode       Sola  Juntos  Ayuda Externa
+pre_mode                                   
+Sola           0.610   0.268          0.122
+Juntos         0.004   0.948          0.048
+Ayuda Externa  0.022   0.174          0.804
+
+Promedio de división de tareas pre y post primer hijo, por nivel socioeconómico:
+        pre_mean  post_mean
+status                     
+1          1.869      1.881
+2          1.919      1.988
+3          1.900      1.913
+4          2.023      2.077
+5          2.253      2.291
+
+Último empleo pre maternidad (% por fila):
+job_type    Formal  Informal
+left_label                  
+No            68.0      32.0
+Sí            57.1      42.9
+
+Primer empleo post maternidad (% por fila):
+Condición laboral  Formal  Informal
+Salió del mercado                  
+No                   71.0      29.0
+Sí                   61.1      38.9

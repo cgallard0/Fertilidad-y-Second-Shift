@@ -1,0 +1,45 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx6480\clbrdrt\brdrs\cellx8064
+\ql \cell\qc (1)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx6480\cellx8064
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx6480\clbrdrb\brdrs\cellx8064
+\ql VARIABLES\cell\qc Ser Padres\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx6480\cellx8064
+\ql \cell\qc \cell\row
+\ql Trabaja Sola\cell\qc -0.320***\cell\row
+\ql \cell\qc (0.0888)\cell\row
+\ql Año\cell\qc 0.0194***\cell\row
+\ql \cell\qc (0.00252)\cell\row
+\ql Cohabitan\cell\qc 0.930***\cell\row
+\ql \cell\qc (0.281)\cell\row
+\ql Edad\cell\qc 0.0291***\cell\row
+\ql \cell\qc (0.00306)\cell\row
+\ql Tipo de Unión = 2, Unión de hecho\cell\qc -0.0382\cell\row
+\ql \cell\qc (0.202)\cell\row
+\ql Tipo de Unión = 3, Matrimonio civil\cell\qc 0.832***\cell\row
+\ql \cell\qc (0.0779)\cell\row
+\ql Tipo de Unión = 4, Matrimonio religiosos\cell\qc 1.523***\cell\row
+\ql \cell\qc (0.0707)\cell\row
+\ql Tipo de Unión = 10, Noviazgo\cell\qc -2.930***\cell\row
+\ql \cell\qc (0.428)\cell\row
+\ql Historia de Vida = 2, Repartnered\cell\qc -1.491***\cell\row
+\ql \cell\qc (0.0813)\cell\row
+\ql Historia de Vida = 3, Multipartner Fertility\cell\qc 0.754***\cell\row
+\ql \cell\qc (0.0868)\cell\row
+\ql Educación = 2, Primario\cell\qc -0.0351\cell\row
+\ql \cell\qc (0.134)\cell\row
+\ql Educación = 3, Secundario\cell\qc -0.406***\cell\row
+\ql \cell\qc (0.129)\cell\row
+\ql Educación = 4, Universidad\cell\qc -0.570***\cell\row
+\ql \cell\qc (0.130)\cell\row
+\ql Educación = 5, Posgrado\cell\qc -0.936***\cell\row
+\ql \cell\qc (0.147)\cell\row
+\ql Constant\cell\qc -40.23***\cell\row
+\ql \cell\qc (5.005)\cell\row
+\ql \cell\qc \cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx6480\clbrdrb\brdrs\cellx8064
+\ql Observations\cell\qc 8,668\cell\row
+\pard\qc
+Standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}

@@ -1,0 +1,29 @@
+		(1)
+VARIABLES	LABELS	Salida del Mercado
+		
+informality	Informalidad	0.413***
+		(0.117)
+year	Año	-0.0192
+		(0.0340)
+unequal	Trabaja Sola	0.671***
+		(0.119)
+2.cohorte	cohorte = 2	-0.0997
+		(0.693)
+3.cohorte	cohorte = 3	-0.207
+		(1.027)
+2.status	Nivel Socioeconómico = 2, No Indigente	-0.536
+		(0.341)
+3.status	Nivel Socioeconómico = 3, Medio Bajo	0.0949
+		(0.298)
+4.status	Nivel Socioeconómico = 4, Medio Alto	-0.445
+		(0.300)
+5.status	Nivel Socioeconómico = 5, Alto	-1.344***
+		(0.336)
+age	Edad	0.0352
+		(0.0352)
+Constant	Constant	35.72
+		(66.24)
+		
+Observations		3,793
+Standard errors in parentheses		
+*** p<0.01, ** p<0.05, * p<0.1		

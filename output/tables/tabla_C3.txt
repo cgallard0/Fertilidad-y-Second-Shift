@@ -1,0 +1,21 @@
+		(1)
+VARIABLES	LABELS	Informalidad
+		
+motherhood	Ser Madre	0.184***
+		(0.0437)
+t	Intervalo Post Maternidad	-0.396***
+		(0.0634)
+year	Año	-0.0275***
+		(0.00144)
+unequal	Trabaja Sola	-0.213***
+		(0.0479)
+2.life_story	Historia de Vida = 2, Repartnered	0.0652
+		(0.0586)
+3.life_story	Historia de Vida = 3, Multipartner Fertility	1.281***
+		(0.0508)
+Constant	Constant	53.80***
+		(2.867)
+		
+Observations		16,096
+Standard errors in parentheses		
+*** p<0.01, ** p<0.05, * p<0.1		

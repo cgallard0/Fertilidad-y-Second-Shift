@@ -1,0 +1,29 @@
+		(1)
+VARIABLES	LABELS	Trabajar
+		
+motherhood	Ser Madre	-0.294***
+		(0.0605)
+unequal	Trabaja Sola	0.149*
+		(0.0877)
+2.cohorte	cohorte = 2	0.371***
+		(0.0723)
+3.cohorte	cohorte = 3	0.538***
+		(0.0747)
+2.status	Nivel Socioeconómico = 2, No Indigente	0.221
+		(0.169)
+3.status	Nivel Socioeconómico = 3, Medio Bajo	0.575***
+		(0.145)
+4.status	Nivel Socioeconómico = 4, Medio Alto	0.940***
+		(0.142)
+5.status	Nivel Socioeconómico = 5, Alto	1.206***
+		(0.159)
+2.life_story	Historia de Vida = 2, Repartnered	0.139
+		(0.105)
+3.life_story	Historia de Vida = 3, Multipartner Fertility	-0.328***
+		(0.0800)
+Constant	Constant	-0.117
+		(0.148)
+		
+Observations		5,397
+Standard errors in parentheses		
+*** p<0.01, ** p<0.05, * p<0.1		

@@ -1,0 +1,29 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx6480\clbrdrt\brdrs\cellx8352
+\ql \cell\qc (1)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx6480\cellx8352
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx6480\clbrdrb\brdrs\cellx8352
+\ql VARIABLES\cell\qc Informalidad\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx6480\cellx8352
+\ql \cell\qc \cell\row
+\ql Ser Madre\cell\qc 0.184***\cell\row
+\ql \cell\qc (0.0437)\cell\row
+\ql Intervalo Post Maternidad\cell\qc -0.396***\cell\row
+\ql \cell\qc (0.0634)\cell\row
+\ql Año\cell\qc -0.0275***\cell\row
+\ql \cell\qc (0.00144)\cell\row
+\ql Trabaja Sola\cell\qc -0.213***\cell\row
+\ql \cell\qc (0.0479)\cell\row
+\ql Historia de Vida = 2, Repartnered\cell\qc 0.0652\cell\row
+\ql \cell\qc (0.0586)\cell\row
+\ql Historia de Vida = 3, Multipartner Fertility\cell\qc 1.281***\cell\row
+\ql \cell\qc (0.0508)\cell\row
+\ql Constant\cell\qc 53.80***\cell\row
+\ql \cell\qc (2.867)\cell\row
+\ql \cell\qc \cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx6480\clbrdrb\brdrs\cellx8352
+\ql Observations\cell\qc 16,096\cell\row
+\pard\qc
+Standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}
